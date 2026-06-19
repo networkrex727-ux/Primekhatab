@@ -1,0 +1,8 @@
+{
+  "name": "Rex Uchia Portfolio",
+  "description": "A sleek, single-page portfolio for Rex Uchia, an AI Developer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
