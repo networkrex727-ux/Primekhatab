@@ -15,8 +15,8 @@ html {
 }
 
 body {
-  background-color: #fafafa;
-  color: #111827;
+  background-color: #050505;
+  color: #f3f4f6;
   overflow-x: hidden;
   font-style: italic;
 }
@@ -26,12 +26,12 @@ body {
   width: 8px;
 }
 ::-webkit-scrollbar-track {
-  background: #fafafa; 
+  background: #050505; 
 }
 ::-webkit-scrollbar-thumb {
-  background: #d1d5db; 
+  background: #1f2937; 
   border-radius: 4px;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: #9ca3af; 
+  background: #374151; 
 }
